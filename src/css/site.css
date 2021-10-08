@@ -15,4 +15,5 @@
 @import "footer.css";
 @import "highlight.css";
 @import "print.css";
+@import "elements.css";
 @import "extensions/swagger-ui.css";
